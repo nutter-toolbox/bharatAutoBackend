@@ -1,0 +1,17 @@
+node_modules
+node_modules.bak
+*.tf
+/build
+.idea/
+.gitconfig
+.nyc_output
+coverage
+*.env
+.DS_Store
+build/
+.vscode
+.nvmrc
+package-lock.json
+.env
+uploads
+uploads/*
